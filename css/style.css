@@ -1,0 +1,77 @@
+/*@import url('menu.css');*/
+@media screen and (max-width: 800px){
+
+	.bmenu{
+float: none !important;
+margin: auto !important;
+display: block !important;
+margin: auto !important;
+	}
+}
+
+
+
+.navbar-default {
+    background-color: purple;
+    border-color: blue;
+}
+
+.monbackmenu{
+	background: white;
+
+}
+.monbackmenu li a{
+color: black !important;
+font-weight: bolder;
+
+
+}
+.monbackmenu li a:hover{
+color: yellow !important;
+font-weight: bolder;
+
+
+}
+/*nav + .container{
+height: 400px;
+	background: grey;
+}*/
+.b{
+	border: 0px solid red;
+}
+.slider{
+	height: 460px;
+	background: none;
+}
+.service{
+	min-height: 300px;
+	border: 1px solid black;
+	margin-top: 20px;
+}
+.col-md-4 h2{
+	text-align: center;
+}
+.col-md-4 p{
+	text-align: justify;
+	text-indent: 30px;
+}
+.row{
+	margin-top: 20px;
+}
+.col-md-4{
+	margin-bottom: 20px; 
+}
+.service h3, .service h4{
+text-align: center;
+}
+.service img{
+	-webkit-clip-path: polygon(50% 0%, 100% 38%, 82% 100%, 18% 100%, 0% 38%);
+clip-path: polygon(50% 0%, 100% 38%, 82% 100%, 18% 100%, 0% 38%);
+}
+.service .col-md-4{
+	background: black; 
+}
+.centrer{
+ margin: auto;
+ float: none;
+}
